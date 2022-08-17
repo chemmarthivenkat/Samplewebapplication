@@ -1,4 +1,3 @@
-<h1> Hello, Deployment is done...........
-  welocme 
+<h1> Hello, Deployment is done........... $Date 
   sample web applicatyion...!!! </h1>
 
